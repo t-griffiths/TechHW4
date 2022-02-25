@@ -1,0 +1,25 @@
+﻿#content {
+    margin: 3rem;
+}
+
+body {
+    background-color: #0E64B1;
+    color: #E51836;
+}
+
+#card {
+    padding-top: 1rem;
+}
+
+#contact {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem;
+    width: 500px;
+    background-color: #D3D3D3;
+}
+
+#pets {
+    margin-top: 2rem;
+}
